@@ -1,7 +1,6 @@
-### Hi there 👋
+![Eyes on the Code](https://github.com/Jafestro/Jafestro/assets/114564013/ee387612-c900-4698-ade3-537cc0273999)
 
-
-![giphy](https://github.com/Jafestro/Jafestro/assets/114564013/50d20d75-a31d-4bdd-91e5-d1ea7d731a81)
+### Welcome Adventurer! 🧙🏽‍♂️
 
 <!--
 **Jafestro/Jafestro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

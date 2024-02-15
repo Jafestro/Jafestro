@@ -1,4 +1,4 @@
-![Eyes on the Code](https://github.com/Jafestro/Jafestro/assets/114564013/ee387612-c900-4698-ade3-537cc0273999)
+![Eyes on the Code (1)](https://github.com/Jafestro/Jafestro/assets/114564013/2bb6e671-0ef9-458c-a57b-0079ae32efe4)
 
 ### Welcome Adventurer! 🧙🏽‍♂️
 

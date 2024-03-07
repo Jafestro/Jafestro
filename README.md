@@ -20,6 +20,9 @@ Technologies 🪄:
 <img src="https://github.com/Jafestro/Jafestro/assets/114564013/7e40afdb-3bbb-46a4-8738-b23eeccc70da" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
 </div>
 
+Links 🔗:
+--------------------------------------------------------------------------------------------------------
+<a href="https://www.linkedin.com/in/jafarjjj99/"><img src="https://github.com/Jafestro/Jafestro/assets/114564013/0b5ad394-72f7-4ebe-ad5e-661e9377c90c"/></a>
 <!--
 **Jafestro/Jafestro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

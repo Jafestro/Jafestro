@@ -23,6 +23,7 @@ Technologies 🪄:
 Links 🔗:
 --------------------------------------------------------------------------------------------------------
 <a href="https://www.linkedin.com/in/jafarjjj99/"><img src="https://github.com/Jafestro/Jafestro/assets/114564013/0b5ad394-72f7-4ebe-ad5e-661e9377c90c"/></a>
+--------------------------------------------------------------------------------------------------------
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jafestro&show_icons=true&theme=aura&border_radius=10&rank_icon=percentile)
